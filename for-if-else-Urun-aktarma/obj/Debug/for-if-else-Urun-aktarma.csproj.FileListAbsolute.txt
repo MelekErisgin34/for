@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-if-else-Urun-aktarma\for-if-else-Urun-aktarma\bin\Debug\for-if-else-Urun-aktarma.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-if-else-Urun-aktarma\for-if-else-Urun-aktarma\bin\Debug\for-if-else-Urun-aktarma.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-if-else-Urun-aktarma\for-if-else-Urun-aktarma\bin\Debug\for-if-else-Urun-aktarma.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-if-else-Urun-aktarma\for-if-else-Urun-aktarma\obj\Debug\for-if-else-Urun-aktarma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-if-else-Urun-aktarma\for-if-else-Urun-aktarma\obj\Debug\for-if-else-Urun-aktarma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-if-else-Urun-aktarma\for-if-else-Urun-aktarma\obj\Debug\for_if_else_Urun_aktarma.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-if-else-Urun-aktarma\for-if-else-Urun-aktarma\obj\Debug\for_if_else_Urun_aktarma.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-if-else-Urun-aktarma\for-if-else-Urun-aktarma\obj\Debug\for-if-else-Urun-aktarma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-if-else-Urun-aktarma\for-if-else-Urun-aktarma\obj\Debug\for-if-else-Urun-aktarma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-if-else-Urun-aktarma\for-if-else-Urun-aktarma\obj\Debug\for-if-else-Urun-aktarma.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\for-if-else-Urun-aktarma\for-if-else-Urun-aktarma\obj\Debug\for-if-else-Urun-aktarma.pdb

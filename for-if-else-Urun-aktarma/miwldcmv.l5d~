@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace for_if_else_Urun_aktarma
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnAktar_Click(object sender, EventArgs e)
+        {
+            for(int i = 0; i < lst1.Items.Count; i++)
+            {
+                if (lst1.Items[i].ToString()=="elma"||
+                    lst1.Items[i].ToString() == "erik"||
+                    lst1.Items[i].ToString() == "karadut")
+                {
+                    lst2.Items.Add(lst1.Items[i]);
+                }
+                else
+                {
+                    lst3.Items.Add(lst1.Items[i]);
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,147 @@
+﻿namespace for_if_else_Urun_aktarma
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.lstMeyvesebzeler = new System.Windows.Forms.ListBox();
+            this.lstMeyveler = new System.Windows.Forms.ListBox();
+            this.lstSebzeler = new System.Windows.Forms.ListBox();
+            this.btnAktar = new System.Windows.Forms.Button();
+            this.lblMeyvesebze = new System.Windows.Forms.Label();
+            this.lblMeyve = new System.Windows.Forms.Label();
+            this.lblSebze = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // lstMeyvesebzeler
+            // 
+            this.lstMeyvesebzeler.FormattingEnabled = true;
+            this.lstMeyvesebzeler.Items.AddRange(new object[] {
+            "elma",
+            "kabak",
+            "erik",
+            "biber",
+            "dereotu",
+            "patlıcan",
+            "karadut",
+            "havuç",
+            "salatalık",
+            "patates",
+            "limon",
+            "soğan",
+            "lahana",
+            "marul",
+            "ıspanak"});
+            this.lstMeyvesebzeler.Location = new System.Drawing.Point(13, 44);
+            this.lstMeyvesebzeler.Name = "lstMeyvesebzeler";
+            this.lstMeyvesebzeler.Size = new System.Drawing.Size(125, 212);
+            this.lstMeyvesebzeler.TabIndex = 0;
+            // 
+            // lstMeyveler
+            // 
+            this.lstMeyveler.FormattingEnabled = true;
+            this.lstMeyveler.Location = new System.Drawing.Point(196, 44);
+            this.lstMeyveler.Name = "lstMeyveler";
+            this.lstMeyveler.Size = new System.Drawing.Size(125, 212);
+            this.lstMeyveler.TabIndex = 1;
+            // 
+            // lstSebzeler
+            // 
+            this.lstSebzeler.FormattingEnabled = true;
+            this.lstSebzeler.Location = new System.Drawing.Point(368, 44);
+            this.lstSebzeler.Name = "lstSebzeler";
+            this.lstSebzeler.Size = new System.Drawing.Size(125, 212);
+            this.lstSebzeler.TabIndex = 2;
+            // 
+            // btnAktar
+            // 
+            this.btnAktar.Location = new System.Drawing.Point(12, 276);
+            this.btnAktar.Name = "btnAktar";
+            this.btnAktar.Size = new System.Drawing.Size(79, 27);
+            this.btnAktar.TabIndex = 3;
+            this.btnAktar.Text = "Aktar";
+            this.btnAktar.UseVisualStyleBackColor = true;
+            this.btnAktar.Click += new System.EventHandler(this.btnAktar_Click);
+            // 
+            // lblMeyvesebze
+            // 
+            this.lblMeyvesebze.AutoSize = true;
+            this.lblMeyvesebze.Location = new System.Drawing.Point(13, 25);
+            this.lblMeyvesebze.Name = "lblMeyvesebze";
+            this.lblMeyvesebze.Size = new System.Drawing.Size(98, 13);
+            this.lblMeyvesebze.TabIndex = 4;
+            this.lblMeyvesebze.Text = "Meyve ve Sebzeler";
+            // 
+            // lblMeyve
+            // 
+            this.lblMeyve.AutoSize = true;
+            this.lblMeyve.Location = new System.Drawing.Point(205, 24);
+            this.lblMeyve.Name = "lblMeyve";
+            this.lblMeyve.Size = new System.Drawing.Size(50, 13);
+            this.lblMeyve.TabIndex = 5;
+            this.lblMeyve.Text = "Meyveler";
+            // 
+            // lblSebze
+            // 
+            this.lblSebze.AutoSize = true;
+            this.lblSebze.Location = new System.Drawing.Point(387, 23);
+            this.lblSebze.Name = "lblSebze";
+            this.lblSebze.Size = new System.Drawing.Size(48, 13);
+            this.lblSebze.TabIndex = 6;
+            this.lblSebze.Text = "Sebzeler";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(554, 345);
+            this.Controls.Add(this.lblSebze);
+            this.Controls.Add(this.lblMeyve);
+            this.Controls.Add(this.lblMeyvesebze);
+            this.Controls.Add(this.btnAktar);
+            this.Controls.Add(this.lstSebzeler);
+            this.Controls.Add(this.lstMeyveler);
+            this.Controls.Add(this.lstMeyvesebzeler);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.ListBox lstMeyvesebzeler;
+        private System.Windows.Forms.ListBox lstMeyveler;
+        private System.Windows.Forms.ListBox lstSebzeler;
+        private System.Windows.Forms.Button btnAktar;
+        private System.Windows.Forms.Label lblMeyvesebze;
+        private System.Windows.Forms.Label lblMeyve;
+        private System.Windows.Forms.Label lblSebze;
+    }
+}
+
